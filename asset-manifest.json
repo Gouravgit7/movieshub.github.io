@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/movieshub.github.io/static/css/main.c37e3a12.css",
-    "main.js": "/movieshub.github.io/static/js/main.5f01a214.js",
+    "main.js": "/movieshub.github.io/static/js/main.b3594e06.js",
     "index.html": "/movieshub.github.io/index.html",
     "main.c37e3a12.css.map": "/movieshub.github.io/static/css/main.c37e3a12.css.map",
-    "main.5f01a214.js.map": "/movieshub.github.io/static/js/main.5f01a214.js.map"
+    "main.b3594e06.js.map": "/movieshub.github.io/static/js/main.b3594e06.js.map"
   },
   "entrypoints": [
     "static/css/main.c37e3a12.css",
-    "static/js/main.5f01a214.js"
+    "static/js/main.b3594e06.js"
   ]
 }
