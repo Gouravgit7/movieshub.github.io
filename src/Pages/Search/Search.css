@@ -1,0 +1,10 @@
+.search{
+    margin: 5px;
+    padding: 5px;
+}
+.tabs{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
